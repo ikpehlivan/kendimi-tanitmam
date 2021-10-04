@@ -1,4 +1,4 @@
-- Merhabalar herkese! Öncelikle ben İlteriş Kaan PEHLİVAN. Profilime hoş geldiniz!
+- Selamlar! Adım ve soyadım: İlteriş Kaan PEHLİVAN. Profilime hoş geldiniz!
 
 ## Hakkımda: 
 - Uzun süredir Penetrasyon (Sızma) Testi tarafıyla ilgilenmekteyim. 
