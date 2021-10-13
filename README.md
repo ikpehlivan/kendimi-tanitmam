@@ -10,4 +10,4 @@
 - Sızma işlemlerinin işleyişinde mor takıma dahil olmaktayımdır.
 - Ayrıca boş bulunduğum vakitlerimde kendi çapımda programlama dillerine bakmaktayımdır.
 
-imperative("Profilime bakıp değerli vaktinizi ve ilginizi ayırdığınız için teşekkür ederim. Saygı ve sevgilerimle...")
+<p align="right">Profilime bakıp değerli vaktinizi ve ilginizi ayırdığınız için teşekkür ederim. Saygı ve sevgilerimle...</p>
