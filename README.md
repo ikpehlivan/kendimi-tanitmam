@@ -1,7 +1,7 @@
-<h1>Merhabalar!</h1>
-<h1>Profilime hoş geldiniz!</h1>
+<h2>Merhabalar!</h2>
+<h2>Profilime hoş geldiniz!</h2>
 
-<h2> Kendimi kısaca tanıtırsam, </h2> 
+<h3> Kendimi kısaca tanıtırsam, </h3> 
 <p>uzun süredir sektörün içerisinde varolan sızma testi hizmetleriyle ilgilenmekteyimdir.</p> 
 <p>Küçüklükten itibaren bilgisayar teknolojileri ve bilimleri hoşuma gitmektedir.</p>
 <p>Kendimi olabildiğince geliştirmek ve ilerletmek isteyişi içerisindeyim.</p>
