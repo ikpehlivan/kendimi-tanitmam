@@ -1,7 +1,6 @@
 <h2>Merhabalar, profilime hoş geldiniz!</h2>
 
-<h3> Kendimi kısaca tanıtırsam, </h3> 
-<p>uzun süredir sektörün içerisinde varolan sızma testi hizmetleriyle ilgilenmekteyimdir.</p> 
+<p>Kendimi kısaca tanıtırsam, uzun süredir sektörün içerisinde varolan sızma testi hizmetleriyle ilgilenmekteyimdir.</p> 
 <p>Küçüklükten itibaren bilgisayar teknolojileri ve bilimleri hoşuma gitmektedir.</p>
 <p>Kendimi olabildiğince geliştirmek ve ilerletmek isteyişi içerisindeyim.</p>
 <p>Araştırmaya ve öğrenmeye açık birisiyim.</p>
