@@ -1,7 +1,7 @@
 - Merhabalar!
 - Profilime hoş geldiniz!
 
-## Kendimi kısaca tanıtırsam, 
+<h1> Kendimi kısaca tanıtırsam, </h1> 
 uzun süredir Penetrasyon (Sızma) Testi tarafıyla ilgilenmekteyim. 
 - Küçüklükten itibaren bilgisayar teknolojileri ve bilimleri hoşuma gitmektedir.
 - Kendimi olabildiğince geliştirmek ve ilerletmek isteyişi içerisindeyim.
