@@ -1,5 +1,4 @@
-- Selamlar! 
-- Ad-Soyad: İlteriş Kaan PEHLİVAN. 
+- Merhabalar!
 - Profilime hoş geldiniz!
 
 ## Kendimi kısaca tanıtırsam, 
